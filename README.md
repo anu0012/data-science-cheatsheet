@@ -21,7 +21,7 @@ Neural-Networks are considered Universal Function Approximators. That's why we n
 ## F1 Score - 
 It is the harmonic mean of precision and recall.
 
-F1 = 2*precision*recall/(precision + recall)
+F1 = 2\*precision\*recall / (precision + recall)
 
 * [P](#p)
 
