@@ -1,6 +1,9 @@
 # Data Science CheatSheet
 
 * [A](#a)
+* [F](#f)
+* [P](#p)
+* [R](#r)
 
 # A
 
@@ -13,9 +16,6 @@ Activation functions are used to provide non-linear properties to the neural net
 ### What is the need of non-linearity - 
 Neural-Networks are considered Universal Function Approximators. That's why we need an activation function which allows our model to approximate any function.
 
-* [F](#f)
-
-
 # F
 
 ## F1 Score - 
@@ -23,16 +23,10 @@ It is the harmonic mean of precision and recall.
 
 F1 = 2\*precision\*recall / (precision + recall)
 
-* [P](#p)
-
-
 # P
 
 ## Precision - 
 Precision is defined as the number of true positives divided by the number of true positives plus the number of false positives.
-
-* [R](#r)
-
 
 # R
 
